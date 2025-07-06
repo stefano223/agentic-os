@@ -1,6 +1,6 @@
 {
   "name": "agentic-os",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Agentic OS: Multi-agent orchestration platform for opencode, Hermes & Gemini CLI. Skills hub, scheduler, cost analytics, memory & backup.",
   "main": "src/index.js",
   "scripts": {
